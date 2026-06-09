@@ -5,6 +5,7 @@ This repository collects reusable "skills" for Flutter applications. Each skill 
 ## Skills Directory
 
 - [flutter-adaptibility-skill](skills/flutter-adaptibility-skill/SKILL.md): Skill for adapting Flutter UI and behavior to different device sizes and accessibility needs. See the skill documentation for usage and examples.
+- [riverpod-best-practices](skills/riverpod-best-practices/SKILL.md): Skill for using the best practices while using riverpod architecture.
 
 ## How to use a skill
 
